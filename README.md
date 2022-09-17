@@ -9,10 +9,22 @@ In this report we look at bike data from citibike from august of 2019 to try and
 ### Slide One: 
 In this slide we can see roughly how long each trip took with the vast majoirty of trips taking lesss then 30 min so we would want this to be in areas where you are within 30 min of getting to where you want to go.
 
-### Slide two:
+### Slide Two:
 This slide shows when we would expect to see the most riders.
 
-### Slide three: 
+### Slide Three: 
 This is another visulasation of when the most busy hours are but also the busiest days with these two slides together we can see that mornings on the weekend are the least busy times
 
-### SLide Three:
+### Slide Four:
+This slide shows the number of riders of each gender suggesting most riders are male.
+
+### Sldie Five:
+From thsi slide we can see that women and men take about the same length trips although women's trips on avrage take aligtly longer.
+
+### Slide Six:
+From this slide we can see that the day of the week and time women and men take there rides doesnt really differ but what is intresting is it seems those who dont have a listed gender do most of there riding on the weekend.\
+
+### Slide 7:
+From this slide we can see that most subscibers are male  and that almsot none of the people who subscribe are Unknown gender. We can also see that most of the rides that unsubscribed-people(Customers) take are on the weekends.
+
+## Summary
