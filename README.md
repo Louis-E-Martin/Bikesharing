@@ -24,7 +24,8 @@ From thsi slide we can see that women and men take about the same length trips a
 ### Slide Six:
 From this slide we can see that the day of the week and time women and men take there rides doesnt really differ but what is intresting is it seems those who dont have a listed gender do most of there riding on the weekend.\
 
-### Slide 7:
+### Slide Seven:
 From this slide we can see that most subscibers are male  and that almsot none of the people who subscribe are Unknown gender. We can also see that most of the rides that unsubscribed-people(Customers) take are on the weekends.
 
 ## Summary
+One big conclution we can draw by looking at the ride times for the bikes is that likly most people who use this service are people commuting to work over a short distance (less then 5 miles) so if we wanted to have a simmilar service in other places we would want to make sure it is a dense urban area. It also apperas that there is a lot of room to grow in the current city in the female demigraphic. If i could add two more maps it would be to see what the most common start to stop locations are and to see the avrage distance traveled with each ride. 
